@@ -22,3 +22,8 @@ This script is provided "as-is" without any guarantees of functionality or accur
 
 ### Description
 Simply prints a JSON in a nice, readable format. Simply used to verify the results from the web scraper look as expected.
+
+
+## Lotto America IPYND
+
+### A notebook that loads winning Lotto America Data from all time and then transforms it into a more pleasant and usable format. Various explorations into the data are then performed, just as a fun project to examine statistical outcomes of Lotto America winning number combinations.
