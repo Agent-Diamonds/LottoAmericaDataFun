@@ -18,3 +18,7 @@ This project is for **educational purposes only**. The author does not condone o
 
 This script is provided "as-is" without any guarantees of functionality or accuracy. The author disclaims any responsibility for improper or unauthorized use. 
 
+## Pretty Print Json
+
+### Description
+Simply prints a JSON in a nice, readable format. Simply used to verify the results from the web scraper look as expected.
