@@ -1,3 +1,4 @@
 *.old
 *.json
 *.ipynb_checkpoints
+*.pickle
