@@ -58,3 +58,5 @@ This Jupyter Notebook explores Lotto America data, transforming raw winning numb
 - **Data Engineering**: Cleaning and restructuring datasets.
 - **Data Analysis**: Statistical computations and visualizations.
 - **Tool Proficiency**: Jupyter Notebook, Pandas, Matplotlib, and Seaborn.
+
+### Future Ideas
